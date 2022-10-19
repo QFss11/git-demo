@@ -11,6 +11,4 @@ hello github
 hello github
 hello github
 hello github
-你好，你好，你
-呵呵
-嘿嘿
+你好，欢迎来到github
