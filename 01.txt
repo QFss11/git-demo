@@ -1,9 +1,4 @@
 hello github
-1
-
-
-
-
 hello github
 hello github
 hello github
@@ -16,4 +11,6 @@ hello github
 hello github
 hello github
 hello github
-你好，你好，你号
+你好，你好，你
+呵呵
+嘿嘿
